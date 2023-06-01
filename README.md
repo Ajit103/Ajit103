@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ajit103
-- 👀 I’m interested in data analysis and visualization.
+- 👀 I am passionate about working with huge amount of data and uncover meaningful insights that help in making data-driven decisions.
 - 🌱 I am looking for an entry level data analytics job. I use Advanced Excel, MySQL, Python(Pandas), Power BI, Tableau and R programming for data analysis and visualization. I have extensive knowledge of Statistics and I can perform various statistical tests for data analysis
 
 - 📫 How to reach me 
